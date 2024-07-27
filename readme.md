@@ -1,0 +1,1 @@
+## Scraping dota2 team information in liquipedia using Beautifulsoup4
