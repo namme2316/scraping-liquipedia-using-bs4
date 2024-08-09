@@ -19,7 +19,7 @@
 
 3. Activate the Virtual Environment
 
-        .\env\Scripts\activate
+        env\Scripts\activate
 
 4. Install Dependencies
 
